@@ -15,8 +15,8 @@
       <file leaf-file-name="MathText.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MathText.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="391">
+              <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -39,8 +39,8 @@
         <option value="$PROJECT_DIR$/src/CarInsurancePolicy2.java" />
         <option value="$PROJECT_DIR$/src/CreatePolicies.java" />
         <option value="$PROJECT_DIR$/src/TestDogs.java" />
-        <option value="$PROJECT_DIR$/src/CarInsurancePolicy.java" />
         <option value="$PROJECT_DIR$/src/DogTriathlonParticipant.java" />
+        <option value="$PROJECT_DIR$/src/CarInsurancePolicy.java" />
         <option value="$PROJECT_DIR$/src/MathText.java" />
       </list>
     </option>
@@ -179,17 +179,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-193" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32943678" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32943678" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -206,7 +206,6 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3298292" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -273,17 +272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CarInsurancePolicy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DogTriathlonParticipant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -298,10 +286,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CarInsurancePolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MathText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="391">
+          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
         </state>
       </provider>
     </entry>
