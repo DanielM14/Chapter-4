@@ -1,4 +1,4 @@
-public class CarInsurancePolicy2 {
+class CarInsurancePolicy2 {
     private int policyNumber;
     private int numPayments;
     private String residentCity;
