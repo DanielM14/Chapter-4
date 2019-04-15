@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\r\n\ Solution\ Version\r\n
+comment1.params=word
+comment1.target=Tile(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFace()
+comment3.params=
+comment3.target=java.lang.String\ getBack()
+comment4.params=b
+comment4.target=void\ faceUp(boolean)
+comment5.params=
+comment5.target=boolean\ isFaceUp()
+comment6.params=
+comment6.target=void\ foundMatch()
+comment7.params=
+comment7.target=boolean\ matched()
+comment8.params=tile
+comment8.target=boolean\ addsTo7(Tile)
+comment9.params=tile
+comment9.target=boolean\ equals(Tile)
+numComments=10

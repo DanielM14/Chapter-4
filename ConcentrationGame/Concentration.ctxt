@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Concentration
+comment0.text=\ \r\n\ Solution\ Version\ with\ enhancements\ and\ Sevens\ rules\r\n
+comment1.params=
+comment1.target=Concentration()
+comment1.text=\ \r\n\ The\ constructor\ for\ the\ game.\ Creates\ the\ 2-dim\ gameboard\r\n\ by\ populating\ it\ with\ tiles.\r\n
+comment2.params=
+comment2.target=boolean\ allTilesMatch()
+comment3.params=row1\ column1\ row2\ column2
+comment3.target=java.lang.String\ checkForMatch(int,\ int,\ int,\ int)
+comment4.params=row\ column
+comment4.target=void\ showFaceUp(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=i\ j
+comment6.target=boolean\ validSelection(int,\ int)
+numComments=7
